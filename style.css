@@ -1,0 +1,17 @@
+body {
+background-color: black;
+
+}
+#img {
+border:10px solid rgb(255, 255, 255);
+margin-top:20px;
+}
+* {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+#text {
+    font-family:serif;
+    text-transform:uppercase;
+}
+
